@@ -44,8 +44,8 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/chowdhury-nahid/webdriver_java.git
-cd webdriver_java
+git clone https://github.com/chowdhury-nahid/selenium-java-web-automation.git
+cd selenium-java-web-automation
 ```
 
 ### 2. Configure Drivers  
@@ -84,7 +84,7 @@ Import as a **Maven project** in IntelliJ/Eclipse and run via JUnit.
 
 ## 📂 Project Structure  
 ```plaintext
-webdriver_java/
+selenium-java-web-automation/
 ├── src/
 │   ├── main/java/
 │   │   ├── pages/           # Page Object Classes
@@ -126,5 +126,3 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 **Nahid Chowdhury**  
 - GitHub: [@chowdhury-nahid](https://github.com/chowdhury-nahid)  
 - LinkedIn: [Nahid Chowdhury](https://www.linkedin.com/in/chowdhury-nahid/)  
-
-```
